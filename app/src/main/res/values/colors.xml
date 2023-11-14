@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="azulFundo">#5772FF</color>
+    <color name="azulEscuro">#2B4DFF</color>
+    <color name="azulFundoConfig">#6A82FF</color>
+    <color name="azulCorTextoClaro">#CDD5FF</color>
+    <color name="azulCorTextoSlide">#A5B3FF</color>
+    <color name="azulCorSelecaoOpcao">#A0B0FF</color>
+
+    <color name="pretoCorFundo">#191919</color>
+    <color name="pretoEscuro">#111111</color>
+    <color name="pretoFundoConfig">#111111</color>
+    <color name="pretoClaro">#434343</color>
+    <color name="pretoTextoSlide">#4E4E4E</color>
+
+    <color name="vermelhoFundo">#FF7272</color>
+
+</resources>
